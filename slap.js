@@ -1,1 +1,1 @@
-console.log("hey there")
+document.write("This text comes from an external script.");
